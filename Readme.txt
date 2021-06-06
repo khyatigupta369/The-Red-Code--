@@ -9,7 +9,7 @@ Being a team where we all are female members it was easy for us to imagine the p
 **Our vision** is that menstruation,being a natural process it should not hinder woman overall development of woman which in turn is responsive for global development.
 
 ## How we built it
-We built our website by mainly using HTML and CSS . 
+We built our website by mainly using HTML, CSS and Javascript . 
 ## Challenges we ran into
 _"Without facing challenges one can never learn." _ with this mindset we decided to take part in this hackathon. Being a beginner and newbie we did face a few challenges on our way. But the one major challenge was making our site responsive. It took long discussion and couple of meetings to figure our exactly the design and layout of our website.
 But we overcame all challenges at last and hence learning a lot.
