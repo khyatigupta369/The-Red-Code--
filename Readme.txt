@@ -18,7 +18,7 @@ But we overcame all challenges at last and hence learning a lot.
 This whole project **THE RED CODE** is the biggest achievement for us. While making of this project we got to know each other better which turned out to work as our advantage thus growing our team bonding and making this project an accomplishment for our team that we can be proud of.
 
 ## What we learned
-Talking about technologies, we all are new to Web Development and are still working on to improve it. While making this project we learnt a lot about new tags and designing part in HTML and CSS mainly.
+Talking about technologies, we all are new to Web Development and are still working on to improve it. While making this project we learnt a lot about new tags and designing part in HTML, CSS and Javascript mainly.
 Apart from that based on our theme we got to know about the facts and statistics related to menstruation problem faced by women in India and all around the world , thus we ourselves got a lot more sensitized about this problem and learned about the impact it can have on a woman's future.
 
 ## What's next for THE RED CODE
