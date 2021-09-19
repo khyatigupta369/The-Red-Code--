@@ -12,5 +12,9 @@ A brief description of what this project does and who it's for
 ## Screenshots of Website:
 
 ![App Screenshot](/Screenshots/Home.png)
+![](https://github.com/khyatigupta369/The-Red-Code--/blob/main/Screenshots/Appointment%20and%20Stats.png)
+![](https://github.com/khyatigupta369/The-Red-Code--/blob/main/Screenshots/Doctor%20consultaion.png)
+![](https://github.com/khyatigupta369/The-Red-Code--/blob/main/Screenshots/About%20Us.png)
 ![App Screenshot](/Screenshots/Products.png)
 ![App Screenshot](/Screenshots/FAQs.png)
+![](https://github.com/khyatigupta369/The-Red-Code--/blob/main/Screenshots/Contact%20Us.png)
