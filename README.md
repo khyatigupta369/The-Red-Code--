@@ -10,15 +10,6 @@ A brief description of what this project does and who it's for
 ## Tech Stack
 
 **Client:** CSS, Bootstrap, javascript
-  ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Contrast-2 Color | ![#f1959b](https://via.placeholder.com/10/f1959b?text=+) #f1959b |
-| Contrast-1 Color | ![#f07470](https://via.placeholder.com/10/f07470?text=+) #f07470 |
-| Background Color | ![#ecf8f9](https://via.placeholder.com/10/ecf8f9?text=+) #ecf8f9 |
-| Example Color | ![#444444](https://via.placeholder.com/10/444444?text=+) #444444 |
-
 
 ## Screenshots of Website:
 
@@ -29,3 +20,12 @@ A brief description of what this project does and who it's for
 ![App Screenshot](/Screenshots/Products.png)
 ![App Screenshot](/Screenshots/FAQs.png)
 ![](https://github.com/khyatigupta369/The-Red-Code--/blob/main/Screenshots/Contact%20Us.png)
+
+  ## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Contrast-2 Color | ![#f1959b](https://via.placeholder.com/10/f1959b?text=+) #f1959b |
+| Contrast-1 Color | ![#f07470](https://via.placeholder.com/10/f07470?text=+) #f07470 |
+| Background Color | ![#ecf8f9](https://via.placeholder.com/10/ecf8f9?text=+) #ecf8f9 |
+| Example Color | ![#444444](https://via.placeholder.com/10/444444?text=+) #444444 |
